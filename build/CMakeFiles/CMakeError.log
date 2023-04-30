@@ -1,0 +1,689 @@
+Determining if the include file alloca.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_34de8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_34de8.dir\Debug\\" /Fd"cmTC_34de8.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'alloca.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_34de8.vcxproj]
+
+
+
+Determining if the include file altivec.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_6ef7d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6ef7d.dir\Debug\\" /Fd"cmTC_6ef7d.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'altivec.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_6ef7d.vcxproj]
+
+
+
+Determining if the include file c_asm.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_ef6ba.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ef6ba.dir\Debug\\" /Fd"cmTC_ef6ba.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'c_asm.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_ef6ba.vcxproj]
+
+
+
+Determining if the include file dlfcn.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_c6467.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c6467.dir\Debug\\" /Fd"cmTC_c6467.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'dlfcn.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_c6467.vcxproj]
+
+
+
+Determining if the include file intrinsics.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_8ff42.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8ff42.dir\Debug\\" /Fd"cmTC_8ff42.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'intrinsics.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_8ff42.vcxproj]
+
+
+
+Determining if the include file libintl.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_78de8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_78de8.dir\Debug\\" /Fd"cmTC_78de8.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'libintl.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_78de8.vcxproj]
+
+
+
+Determining if the include file mach/mach_time.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_742ca.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'mach/mach_time.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_742ca.vcxproj]
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_742ca.dir\Debug\\" /Fd"cmTC_742ca.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+
+
+
+Determining if the include file strings.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_266b6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_266b6.dir\Debug\\" /Fd"cmTC_266b6.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'strings.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_266b6.vcxproj]
+
+
+
+Determining if the include file sys/time.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_baabc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'sys/time.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_baabc.vcxproj]
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_baabc.dir\Debug\\" /Fd"cmTC_baabc.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+
+
+
+Determining if the include file sys/sysctl.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_528ca.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'sys/sysctl.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_528ca.vcxproj]
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_528ca.dir\Debug\\" /Fd"cmTC_528ca.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+
+
+
+Determining if the include file uintptr.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_c60b2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c60b2.dir\Debug\\" /Fd"cmTC_c60b2.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'uintptr.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_c60b2.vcxproj]
+
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_7a188.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckIncludeFile.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7a188.dir\Debug\\" /Fd"cmTC_7a188.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal  error C1083: Cannot open include file: 'unistd.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_7a188.vcxproj]
+
+
+
+Determining if the prototype drand48 exists for HAVE_DECL_DRAND48 failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_07825.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckPrototypeDefinition.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_07825.dir\Debug\\" /Fd"cmTC_07825.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c(10,33): error C2065: 'drand48': undeclared identifier [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_07825.vcxproj]
+
+
+
+#include <stdlib.h>
+
+
+static void cmakeRequireSymbol(int dummy, ...) {
+  (void) dummy;
+}
+
+static void checkSymbol(void) {
+#ifndef drand48
+  cmakeRequireSymbol(0, &drand48);
+#endif
+}
+
+double drand48 (void) {
+  return 0;
+}
+
+#ifdef __CLASSIC_C__
+int main() {
+  int ac;
+  char*av[];
+#else
+int main(int ac, char *av[]) {
+#endif
+  checkSymbol();
+  if (ac > 1000) {
+    return *av[0];
+  }
+  return 0;
+}
+
+
+Determining if the prototype srand48 exists for HAVE_DECL_SRAND48 failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_a02f7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckPrototypeDefinition.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a02f7.dir\Debug\\" /Fd"cmTC_a02f7.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c(10,33): error C2065: 'srand48': undeclared identifier [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_a02f7.vcxproj]
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c(15,11): warning C4098: 'srand48': 'void' function returning a value [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_a02f7.vcxproj]
+
+
+
+#include <stdlib.h>
+
+
+static void cmakeRequireSymbol(int dummy, ...) {
+  (void) dummy;
+}
+
+static void checkSymbol(void) {
+#ifndef srand48
+  cmakeRequireSymbol(0, &srand48);
+#endif
+}
+
+void srand48(long int seedval) {
+  return 0;
+}
+
+#ifdef __CLASSIC_C__
+int main() {
+  int ac;
+  char*av[];
+#else
+int main(int ac, char *av[]) {
+#endif
+  checkSymbol();
+  if (ac > 1000) {
+    return *av[0];
+  }
+  return 0;
+}
+
+
+Determining if the prototype cosl exists for HAVE_DECL_COSL failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_e9aee.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckPrototypeDefinition.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e9aee.dir\Debug\\" /Fd"cmTC_e9aee.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c(14,13): error C2084: function 'long double cosl(long double)' already has a body [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_e9aee.vcxproj]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(823,51): message : see previous definition of 'cosl' [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_e9aee.vcxproj]
+
+
+
+#include <math.h>
+
+
+static void cmakeRequireSymbol(int dummy, ...) {
+  (void) dummy;
+}
+
+static void checkSymbol(void) {
+#ifndef cosl
+  cmakeRequireSymbol(0, &cosl);
+#endif
+}
+
+long double cosl( long double arg ) {
+  return 0;
+}
+
+#ifdef __CLASSIC_C__
+int main() {
+  int ac;
+  char*av[];
+#else
+int main(int ac, char *av[]) {
+#endif
+  checkSymbol();
+  if (ac > 1000) {
+    return *av[0];
+  }
+  return 0;
+}
+
+
+Determining if the prototype sinl exists for HAVE_DECL_SINL failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_3bad1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckPrototypeDefinition.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3bad1.dir\Debug\\" /Fd"cmTC_3bad1.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c(14,13): error C2084: function 'long double sinl(long double)' already has a body [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_3bad1.vcxproj]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(932,51): message : see previous definition of 'sinl' [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_3bad1.vcxproj]
+
+
+
+#include <math.h>
+
+
+static void cmakeRequireSymbol(int dummy, ...) {
+  (void) dummy;
+}
+
+static void checkSymbol(void) {
+#ifndef sinl
+  cmakeRequireSymbol(0, &sinl);
+#endif
+}
+
+long double sinl( long double arg ) {
+  return 0;
+}
+
+#ifdef __CLASSIC_C__
+int main() {
+  int ac;
+  char*av[];
+#else
+int main(int ac, char *av[]) {
+#endif
+  checkSymbol();
+  if (ac > 1000) {
+    return *av[0];
+  }
+  return 0;
+}
+
+
+Determining if the prototype memalign exists for HAVE_DECL_MEMALIGN failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_304c0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckPrototypeDefinition.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_304c0.dir\Debug\\" /Fd"cmTC_304c0.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c(10,34): error C2065: 'memalign': undeclared identifier [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_304c0.vcxproj]
+
+
+
+#include <malloc.h>
+
+
+static void cmakeRequireSymbol(int dummy, ...) {
+  (void) dummy;
+}
+
+static void checkSymbol(void) {
+#ifndef memalign
+  cmakeRequireSymbol(0, &memalign);
+#endif
+}
+
+void *memalign(size_t alignment, size_t size) {
+  return 0;
+}
+
+#ifdef __CLASSIC_C__
+int main() {
+  int ac;
+  char*av[];
+#else
+int main(int ac, char *av[]) {
+#endif
+  checkSymbol();
+  if (ac > 1000) {
+    return *av[0];
+  }
+  return 0;
+}
+
+
+Determining if the prototype posix_memalign exists for HAVE_DECL_POSIX_MEMALIGN failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_7bbca.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckPrototypeDefinition.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7bbca.dir\Debug\\" /Fd"cmTC_7bbca.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckPrototypeDefinition.c(10,40): error C2065: 'posix_memalign': undeclared identifier [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_7bbca.vcxproj]
+
+
+
+#include <stdlib.h>
+
+
+static void cmakeRequireSymbol(int dummy, ...) {
+  (void) dummy;
+}
+
+static void checkSymbol(void) {
+#ifndef posix_memalign
+  cmakeRequireSymbol(0, &posix_memalign);
+#endif
+}
+
+int posix_memalign(void **memptr, size_t alignment, size_t size) {
+  return 0;
+}
+
+#ifdef __CLASSIC_C__
+int main() {
+  int ac;
+  char*av[];
+#else
+int main(int ac, char *av[]) {
+#endif
+  checkSymbol();
+  if (ac > 1000) {
+    return *av[0];
+  }
+  return 0;
+}
+
+
+Determining if the clock_gettime exist failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_9f78a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckSymbolExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9f78a.dir\Debug\\" /Fd"cmTC_9f78a.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8,32): error C2065: 'clock_gettime': undeclared identifier [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_9f78a.vcxproj]
+
+
+File C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <time.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef clock_gettime
+  return ((int*)(&clock_gettime))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the gettimeofday exist failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_6105a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckSymbolExists.c
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2,10): fatal  error C1083: Cannot open include file: 'sys/time.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_6105a.vcxproj]
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6105a.dir\Debug\\" /Fd"cmTC_6105a.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+
+
+File C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/time.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef gettimeofday
+  return ((int*)(&gettimeofday))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getpagesize exist failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b3d50.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckSymbolExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b3d50.dir\Debug\\" /Fd"cmTC_b3d50.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2,10): fatal  error C1083: Cannot open include file: 'unistd.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_b3d50.vcxproj]
+
+
+File C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <unistd.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getpagesize
+  return ((int*)(&getpagesize))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the drand48 exist failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_65108.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckSymbolExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_65108.dir\Debug\\" /Fd"cmTC_65108.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8,26): error C2065: 'drand48': undeclared identifier [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_65108.vcxproj]
+
+
+File C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef drand48
+  return ((int*)(&drand48))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the srand48 exist failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_4cab2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckSymbolExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4cab2.dir\Debug\\" /Fd"cmTC_4cab2.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8,26): error C2065: 'srand48': undeclared identifier [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_4cab2.vcxproj]
+
+
+File C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef srand48
+  return ((int*)(&srand48))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the memalign exist failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_3554a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckSymbolExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3554a.dir\Debug\\" /Fd"cmTC_3554a.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8,27): error C2065: 'memalign': undeclared identifier [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_3554a.vcxproj]
+
+
+File C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef memalign
+  return ((int*)(&memalign))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the posix_memalign exist failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_55631.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckSymbolExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_55631.dir\Debug\\" /Fd"cmTC_55631.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8,33): error C2065: 'posix_memalign': undeclared identifier [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_55631.vcxproj]
+
+
+File C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef posix_memalign
+  return ((int*)(&posix_memalign))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the mach_absolute_time exist failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_9f61d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckSymbolExists.c
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2,10): fatal  error C1083: Cannot open include file: 'mach/mach_time.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_9f61d.vcxproj]
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9f61d.dir\Debug\\" /Fd"cmTC_9f61d.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+
+
+File C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <mach/mach_time.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef mach_absolute_time
+  return ((int*)(&mach_absolute_time))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the alloca exist failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_3ea20.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckSymbolExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3ea20.dir\Debug\\" /Fd"cmTC_3ea20.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2,10): fatal  error C1083: Cannot open include file: 'alloca.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_3ea20.vcxproj]
+
+
+File C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <alloca.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef alloca
+  return ((int*)(&alloca))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the sysctl exist failed with the following output:
+Change Dir: C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_0e119.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.0+6f08c67f3 for .NET Framework
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.35.32215 for x64
+  CheckSymbolExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0e119.dir\Debug\\" /Fd"cmTC_0e119.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2,10): fatal  error C1083: Cannot open include file: 'unistd.h': No such file or directory [C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\CMakeTmp\cmTC_0e119.vcxproj]
+
+
+File C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <unistd.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef sysctl
+  return ((int*)(&sysctl))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}

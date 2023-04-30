@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\penci\Downloads\fftw-3.3.10\build\CMakeFiles\9b892078e74aaba96e2a82a64af7774b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2B437635-CCA5-36F8-82B5-2D96F3BB3FC2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

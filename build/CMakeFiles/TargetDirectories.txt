@@ -1,0 +1,6 @@
+C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/fftw3.dir
+C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/bench.dir
+C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/INSTALL.dir
+C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/penci/Downloads/fftw-3.3.10/build/CMakeFiles/ZERO_CHECK.dir
